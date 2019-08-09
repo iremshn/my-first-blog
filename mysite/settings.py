@@ -25,7 +25,7 @@ SECRET_KEY = '7d7(72$^m+7k(nlw5r=5w52d@y8m5+7&ufyfle90rb41ozy35s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'bellachini.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'bellachini.anywhere.com']
 
 
 # Application definition
